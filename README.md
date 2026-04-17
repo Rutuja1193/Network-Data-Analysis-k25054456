@@ -4,7 +4,7 @@
 **Student:** Rutuja Patil | **K-Number:** K25054456
 
 ## Repository Structure
-.
+'''
 ├── PART1_wikidata_network_analysis.ipynb   # Part 1 notebook
 ├── PART2_leeds_road_network.ipynb         # Part 2 notebook
 ├── data/
@@ -14,6 +14,7 @@
 │   └── 2009.csv ... 2016.csv              # Leeds accident data
 ├── figures/
 └── Coursework_instructions_26.pdf
+'''
 
 ## Part 1 — Wikidata Editor Network Analysis
 
