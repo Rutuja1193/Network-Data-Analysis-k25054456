@@ -26,7 +26,7 @@ co-commenting networks of varying scale:
 
 **Key findings:**
 - All three are strongly small-world networks 
-  (σ = 52, 1388, 1275)
+  (σ = 52, 1373, 1305)
 - Heavy-tailed degree distributions consistent 
   with scale-free topology
 - SIR epidemic model applied to troll propagation
